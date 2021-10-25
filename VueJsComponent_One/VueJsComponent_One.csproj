@@ -80,6 +80,7 @@
     <Content Include="bootstrap\js\jquery-3.6.0.js" />
     <Content Include="index.html" />
     <Content Include="myjs\custom.js" />
+    <Content Include="myjs\tasklist_js.js" />
     <Content Include="vuejs\vue.js" />
     <Content Include="Web.config" />
   </ItemGroup>
